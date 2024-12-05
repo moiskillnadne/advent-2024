@@ -68,3 +68,8 @@ If you are also participating in Advent of Code, I'd love to see your solutions 
 
 ## 💡 Official Website
 All tasks, input data, and descriptions are available on the [official Advent of Code website](https://adventofcode.com/2024).
+
+---
+
+## Support me
+Ways to support me you can find on [my website.](https://riabkov.com/donate)
