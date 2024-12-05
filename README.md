@@ -3,6 +3,9 @@
 
 [English](README.md)
 [Русский](README-RU.md)
+[Deutsch](README-DE.md)
+[Français](README-FR.md)
+[Eesti](README-ET.md)
 
 Welcome to my repository dedicated to **Advent of Code 2024** — an annual Christmas-themed coding marathon that challenges developers worldwide!
 
@@ -58,6 +61,11 @@ This project has several goals:
 
 ## 🖋️ Advent of Code Stories
 Each challenge comes with a story that sets the atmosphere and context. I translate these stories into **English** and **Russian** and save them in `STORY-EN.md` and `STORY-RU.md` files, respectively.
+
+---
+
+## 🎥 Daily Walkthroughs on YouTube
+I also post daily walkthroughs of each Advent of Code challenge on my [YouTube channel](https://www.youtube.com/@viktor.riabkov). Check them out for detailed explanations, tips, and insights!
 
 ---
 
