@@ -6,6 +6,9 @@
 [Deutsch](README-DE.md)
 [Français](README-FR.md)
 [Eesti](README-ET.md)
+[Suomalainen](README-FI.md)
+[Український](README-UA.md)
+[Беларускі](README-BY.md)
 
 Welcome to my repository dedicated to **Advent of Code 2024** — an annual Christmas-themed coding marathon that challenges developers worldwide!
 

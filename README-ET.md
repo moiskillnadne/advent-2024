@@ -6,6 +6,9 @@
 [Deutsch](README-DE.md)
 [Français](README-FR.md)
 [Eesti](README-ET.md)
+[Suomalainen](README-FI.md)
+[Український](README-UA.md)
+[Беларускі](README-BY.md)
 
 Tere tulemast minu **Advent of Code 2024** reposse — iga-aastasele jõuluteemalisele kodeerimismaratonile, mis seab väljakutse arendajatele üle maailma!
 
