@@ -1,6 +1,9 @@
 
 # Advent of Code 2024 🎄✨
 
+[English](README.md)
+[Русский](README-RU.md)
+
 Welcome to my repository dedicated to **Advent of Code 2024** — an annual Christmas-themed coding marathon that challenges developers worldwide!
 
 ## 📖 About the Project
